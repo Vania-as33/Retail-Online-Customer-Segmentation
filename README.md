@@ -1,5 +1,9 @@
 # Retail-Online-Customer-Segmentation
 UAS Analisis Big Data – Kelompok 3 (2022A)
+- VANIA TITANISA INDRAWAN		22031554009
+- RESHAR FALDI JULIANDA 		22031554025
+- ALDORA NOVRIZAL NITIMANTA	22031554033
+- DEVIN AULIA ASSHAFA		  	22031554037
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk melakukan segmentasi pelanggan (customer segmentation) pada data transaksi retail online menggunakan pendekatan analisis data dan machine learning (clustering).
